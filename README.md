@@ -1,2 +1,6 @@
 # matplotlib-challenge
-Matplotlib homework for Butler Executive Bootcamp
+
+
+
+-----
+This project is a part of my curriculum through the Butler Executive Bootcamp in Data Analysis and Visualization.
